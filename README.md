@@ -5,7 +5,7 @@ This PHPStorm Code Style follows the [PSR-1 coding standard] (http://www.php-fig
 
 ## Spaces before and after unary Not (!)
 
-We insert a space before and after the unary Not (!). This makes for a more obvious usage of the (!) which would be otherwise easy to miss. Example:
+We insert a space before and after the unary Not (!). This makes for a more obvious usage of the (!) which would otherwise be easy to miss. Example:
 
 ```php
 if( ! $success) {
