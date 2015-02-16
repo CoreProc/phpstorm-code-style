@@ -18,11 +18,11 @@ if( ! $success) {
 We align the key value pairs in an array.
 
 ```php
-$x = array(
+$x = [
     0   => "zero",
     123 => "one two three",
     25  => "two five"
-);
+];
 ```
 
 ## Class declaration
